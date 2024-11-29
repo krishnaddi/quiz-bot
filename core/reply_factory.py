@@ -50,3 +50,5 @@ def generate_final_response(session):
     '''
 
     return "dummy result"
+
+generate_bot_responses('hi',1)
